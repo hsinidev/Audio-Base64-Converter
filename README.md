@@ -2,12 +2,14 @@
 The Audio ↔ Base64 Converter is a modern, secure, and 100% client-side utility engineered for the bidirectional encoding of audio files (MP3, WAV, etc.) into Base64 Data URIs and reliable decoding back to audio, ensuring complete data privacy as no file ever leaves the user's browser.
 # 🎙️ Audio ↔ Base64 Converter
 
+# 🎙️ Audio ↔ Base64 Converter
+
 <p align="center">
   <strong>A modern, secure, client-side tool for encoding and decoding audio files directly in your browser.</strong>
 </p>
 
 <p align="center">
-  <a href="#-live-demo"><strong>Live Demo</strong></a> · 
+  <a href="https://audiobase64.doodax.com/" target="_blank"><strong>Live Demo</strong></a> · 
   <a href="#-how-it-works"><strong>How It Works</strong></a> · 
   <a href="#-getting-started"><strong>Run Locally</strong></a>
 </p>
@@ -89,7 +91,6 @@ Want to run this project locally or contribute? Follow these steps:
 ### Project Structure (After Build)
 
 The key files in the distribution (ready for deployment) are in the root, matching the structure after `npm run build`:
-
 
 ### Installation & Setup
 
